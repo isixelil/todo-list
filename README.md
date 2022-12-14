@@ -5,4 +5,4 @@ My first Project
 
 ## Authors
 
-- [@octokatherine](https://github.com/CrazyGeniuss)
+- [@isixelil](https://github.com/isixelil/)
